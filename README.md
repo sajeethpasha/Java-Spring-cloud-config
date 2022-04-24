@@ -13,3 +13,7 @@ This repository hosts the projects and their source codes written for various tu
 ## Related Tutorials
 
 1. [Spring Cloud Config Server with Git Integration](https://howtodoinjava.com/spring-cloud/spring-cloud-config-server-git/)
+
+# spring-cloud-config
+This is successfully working code.From the git it will fetch env from Git
+
